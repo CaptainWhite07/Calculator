@@ -23,7 +23,7 @@ The goal was not just to build a working calculator, but to explore OOP concepts
   - **CalculatorGUI (Class):** Manages the user interface and integrates logic
 - Encapsulation: Almost all variables are private with getters/setters
 - Input string exposed for GUI display (pragmatic design choice)
-- Error handling with visual feedback (red “Error” message)
+- Error handling
 
 ---
 
