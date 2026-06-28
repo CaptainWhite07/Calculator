@@ -28,8 +28,6 @@ The goal was not just to build a working calculator, but to explore OOP concepts
 ---
 
 ## Design Notes
-- The GUI styling and layout were assisted by AI tools, while I focused on the **logic, integration, and OOP structure**.  
-- Think of it like a web project: I handled the *HTML + JS (logic and structure)*, while AI helped with the **CSS (styling)**.  
 - Intentional quirks: The `2+2=1` case is a playful reference to a Kurdish saying, showing how logic can be customized.
 
 ---
